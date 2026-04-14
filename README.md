@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sheetal Singh</h1>
 <h3 align="center">🚀 Full Stack Java Developer | Spring Boot | Microservices | React</h3>
 
-<img align="right" alt="coding" width="380" 
-src="https://camo.githubusercontent.com/dfa42d4c3396a0367f99f0fe48bc6c5fb7f409c2a2f3996154a8f220e983f35b/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966">
+<img align="right" alt="coding" width="250" 
+src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 ---
 
