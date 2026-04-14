@@ -55,15 +55,6 @@ src="https://camo.githubusercontent.com/dfa42d4c3396a0367f99f0fe48bc6c5fb7f409c2
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sheetalsingh07&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheetalsingh07&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheetalsingh07&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
