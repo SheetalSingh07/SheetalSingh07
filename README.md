@@ -1,17 +1,80 @@
 <h1 align="center">Hi 👋, I'm Sheetal Singh</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt = "coding" width="400" src="https://camo.githubusercontent.com/dfa42d4c3396a0367f99f0fe48bc6c5fb7f409c2a2f3996154a8f220e983f35b/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966"
+<h3 align="center">🚀 Full Stack Java Developer | Spring Boot | Microservices | React</h3>
 
-- 📫 How to reach me **sheetalsingh0701@gmail.com**
+<img align="right" alt="coding" width="380" 
+src="https://camo.githubusercontent.com/dfa42d4c3396a0367f99f0fe48bc6c5fb7f409c2a2f3996154a8f220e983f35b/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966">
 
+---
 
+### 👩‍💻 About Me
+- 💻 Full Stack Java Developer with strong backend expertise  
+- 🔥 Skilled in **Java, Spring Boot, REST APIs & Microservices**  
+- 🌐 Frontend experience with **React, Angular, JavaScript**  
+- 🧠 Strong problem-solving skills (DSA + System Design basics)  
+- ⚡ Passionate about building scalable and real-world applications  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/sheetal-singh-26734623b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sheetal-singh-26734623b" height="30" width="40" /></a>
+---
+
+### 🛠️ Tech Stack
+
+#### 🚀 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+#### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,js,html,css" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheetalsingh07&show_icons=true&locale=en&layout=compact" alt="sheetalsingh07" /></p>
+#### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+
+#### ⚙️ Tools & Others
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🔹 **E-Commerce Web App**  
+  → Built using Spring Boot + React  
+  → Features: Authentication, Cart, Payment Integration  
+
+- 🔹 **Microservices-Based Order System**  
+  → Spring Boot + REST APIs  
+  → Implemented service communication & fault tolerance  
+
+- 🔹 **Log Analyzer Tool**  
+  → Used for analyzing request/reply & MTA logs  
+  → Improved debugging efficiency  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sheetalsingh07&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheetalsingh07&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheetalsingh07&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/sheetal-singh-26734623b">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+### ✨ Fun Fact
+💡 *I love turning complex problems into simple, scalable solutions!*
